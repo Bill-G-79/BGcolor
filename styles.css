@@ -1,0 +1,7 @@
+.bgcolor-note-content,
+.bgcolor-note-content .markdown-preview-view,
+.bgcolor-note-content .markdown-source-view,
+.bgcolor-note-content .cm-editor,
+.bgcolor-note-content .cm-scroller {
+  background-color: var(--bgcolor-note-color) !important;
+}

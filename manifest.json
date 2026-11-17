@@ -1,0 +1,9 @@
+{
+  "id": "bgcolor",
+  "name": "BGcolor",
+  "version": "1.0.0",
+  "minAppVersion": "1.7.2",
+  "description": "Use each note's Mini Notes color as its background.",
+  "author": "Bill",
+  "isDesktopOnly": false
+}
